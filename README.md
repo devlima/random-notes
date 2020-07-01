@@ -1,5 +1,10 @@
 # random-notes
 random notes that can be used in future.
+ - [Slider](#slider)
+ - [Animation](#Animation)
+ - [HTML](#html)
+ - [CSS/SASS](#css--sass)
+ ---
 
 Slider
 ---
