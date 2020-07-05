@@ -20,6 +20,7 @@ HTML
 - Lodash HTML escape - [https://lodash.com/docs/4.17.15#escape](https://lodash.com/docs/4.17.15#escape)
 - HTML Escape online - [https://www.freeformatter.com/html-escape.html](https://www.freeformatter.com/html-escape.html)
 - HighlightJS - [https://highlightjs.org/](https://highlightjs.org/)
+- Details element [https://equinusocio.dev/blog/details-element-the-native-html-trigger/](https://equinusocio.dev/blog/details-element-the-native-html-trigger/)
 
 CSS / SASS
 ---
