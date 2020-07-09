@@ -14,7 +14,6 @@ Animation
 ---
 - Scroll animation - [https://css-tricks.com/books/greatest-css-tricks/scroll-animation/](https://css-tricks.com/books/greatest-css-tricks/scroll-animation/)
 
-
 HTML
 ---
 - Lodash HTML escape - [https://lodash.com/docs/4.17.15#escape](https://lodash.com/docs/4.17.15#escape)
@@ -25,3 +24,9 @@ HTML
 CSS / SASS
 ---
 - VSCode live sass compiler - [https://github.com/ritwickdey/vscode-live-sass-compiler](https://github.com/ritwickdey/vscode-live-sass-compiler)
+
+AUTOMATION
+---
+
+- Google sheets as DB - [https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714](https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714)
+- Integromat - [https://www.integromat.com/](https://www.integromat.com/)
