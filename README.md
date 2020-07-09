@@ -4,7 +4,7 @@ random notes that can be used in future.
  - [Animation](#Animation)
  - [HTML](#html)
  - [CSS/SASS](#css--sass)
- -[Automation](#automation)
+ - [Automation](#automation)
  ---
 
 Slider
