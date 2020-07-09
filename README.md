@@ -4,6 +4,7 @@ random notes that can be used in future.
  - [Animation](#Animation)
  - [HTML](#html)
  - [CSS/SASS](#css--sass)
+ -[Automation](#automation)
  ---
 
 Slider
@@ -25,7 +26,7 @@ CSS / SASS
 ---
 - VSCode live sass compiler - [https://github.com/ritwickdey/vscode-live-sass-compiler](https://github.com/ritwickdey/vscode-live-sass-compiler)
 
-AUTOMATION
+Automation
 ---
 
 - Google sheets as DB - [https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714](https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714)
