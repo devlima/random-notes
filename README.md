@@ -36,8 +36,11 @@ Automation
 
 React
 ---
+
 - Custom hooks for API Calls - [https://twitter.com/housecor/status/1283368741875703810](https://twitter.com/housecor/status/1283368741875703810)
+- Dark mode with hooks - [https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf](https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf)
 
 Misc
 ---
+
 - Big Heads - [https://github.com/RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads)
