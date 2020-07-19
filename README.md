@@ -5,6 +5,8 @@ random notes that can be used in future.
  - [HTML](#html)
  - [CSS/SASS](#css--sass)
  - [Automation](#automation)
+ - [Misc](#misc)
+ - [React](#react)
  ---
 
 Slider
@@ -31,3 +33,11 @@ Automation
 
 - Google sheets as DB - [https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714](https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714)
 - Integromat - [https://www.integromat.com/](https://www.integromat.com/)
+
+React
+---
+- Custom hooks for API Calls - [https://twitter.com/housecor/status/1283368741875703810](https://twitter.com/housecor/status/1283368741875703810)
+
+Misc
+---
+- Big Heads - [https://github.com/RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads)
