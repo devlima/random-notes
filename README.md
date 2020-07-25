@@ -4,6 +4,7 @@ random notes that can be used in future.
  - [Animation](#Animation)
  - [HTML](#html)
  - [CSS/SASS](#css--sass)
+ - [JS](#js)
  - [Automation](#automation)
  - [Misc](#misc)
  - [React](#react)
@@ -27,6 +28,11 @@ HTML
 CSS / SASS
 ---
 - VSCode live sass compiler - [https://github.com/ritwickdey/vscode-live-sass-compiler](https://github.com/ritwickdey/vscode-live-sass-compiler)
+- font display swap - [https://web.dev/font-display/?utm_source=lighthouse&utm_medium=unknown](https://web.dev/font-display/?utm_source=lighthouse&utm_medium=unknown)
+
+JS
+---
+- Passive listeners - [https://web.dev/uses-passive-event-listeners/?utm_source=lighthouse&utm_medium=unknown](https://web.dev/uses-passive-event-listeners/?utm_source=lighthouse&utm_medium=unknown)
 
 Automation
 ---
