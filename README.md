@@ -6,8 +6,8 @@ random notes that can be used in future.
  - [CSS/SASS](#css--sass)
  - [JS](#js)
  - [Automation](#automation)
- - [Misc](#misc)
  - [React](#react)
+ - [Misc](#misc)
  ---
 
 Slider
