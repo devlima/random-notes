@@ -7,6 +7,7 @@ random notes that can be used in future.
  - [JS](#js)
  - [Automation](#automation)
  - [React](#react)
+ - [React Native](#react-native)
  - [Misc](#misc)
  ---
 
@@ -45,6 +46,11 @@ React
 
 - Custom hooks for API Calls - [https://twitter.com/housecor/status/1283368741875703810](https://twitter.com/housecor/status/1283368741875703810)
 - Dark mode with hooks - [https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf](https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf)
+
+React Native
+---
+
+- React navigation shared elements Transition - [https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5](https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5) || [https://www.youtube.com/watch?v=iejTIn9zi0U](https://www.youtube.com/watch?v=iejTIn9zi0U)
 
 Misc
 ---
