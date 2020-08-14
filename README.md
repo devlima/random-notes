@@ -40,6 +40,7 @@ Automation
 
 - Google sheets as DB - [https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714](https://medium.com/@fayazara/google-sheets-as-a-free-database-in-3-easy-steps-4d8999913714)
 - Integromat - [https://www.integromat.com/](https://www.integromat.com/)
+- files templates generator - [https://www.youtube.com/watch?v=8siGinbhrUA](https://www.youtube.com/watch?v=8siGinbhrUA)
 
 React
 ---
