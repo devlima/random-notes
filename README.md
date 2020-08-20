@@ -18,6 +18,7 @@ Slider
 Animation
 ---
 - Scroll animation - [https://css-tricks.com/books/greatest-css-tricks/scroll-animation/](https://css-tricks.com/books/greatest-css-tricks/scroll-animation/)
+- SVG Animation - [https://maxwellito.github.io/vivus-instant/](https://maxwellito.github.io/vivus-instant/)
 
 HTML
 ---
