@@ -9,7 +9,6 @@ random notes that can be used in future.
  - [React](#react)
  - [React Native](#react-native)
  - [Misc](#misc)
- ---
 
 Slider
 ---
