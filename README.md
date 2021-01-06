@@ -1,5 +1,5 @@
 # random-notes
-random notes that can be used in future.
+notes that can be used in future.
  - [Slider](#slider)
  - [Animation](#Animation)
  - [HTML](#html)
