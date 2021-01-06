@@ -54,7 +54,8 @@ React
 React Native
 ---
 
-- React navigation shared elements Transition - [https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5](https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5) || [https://www.youtube.com/watch?v=iejTIn9zi0U](https://www.youtube.com/watch?v=iejTIn9zi0U)
+- React navigation shared elements Transition - [https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5](https://github.com/IjzerenHein/react-navigation-shared-element/tree/navigation-v5)
+- ^^ [https://www.youtube.com/watch?v=iejTIn9zi0U](https://www.youtube.com/watch?v=iejTIn9zi0U)
 
 Misc
 ---
