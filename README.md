@@ -49,6 +49,7 @@ React
 
 - Custom hooks for API Calls - [https://twitter.com/housecor/status/1283368741875703810](https://twitter.com/housecor/status/1283368741875703810)
 - Dark mode with hooks - [https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf](https://dev.to/amanhimself/how-to-add-dark-mode-functionality-with-react-hooks-4jnf)
+- Hot Toast - [https://react-hot-toast.com/](https://react-hot-toast.com/)
 
 React Native
 ---
